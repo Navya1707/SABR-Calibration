@@ -25,6 +25,6 @@ It lets users:
 
 ## Installation  
 ```bash
-git clone https://github.com/Navya1707/SABRCalKit.git
-cd SABRCalKit  
+git clone https://github.com/Navya1707/SABR-Calibration.git
+cd SABR-Calibration  
 pip install -r requirements.txt  
