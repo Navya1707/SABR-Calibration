@@ -2,7 +2,7 @@
 A Python mini-suite for calibration & analysis of the SABR volatility smile model_
 
 ## Overview  
-**SABRCalKit** is a compact, yet powerful tool for calibrating the SABR model (Stochastic Alpha Beta Rho) volatility-smile model widely used in derivatives markets (caps/floors, swaptions, equity/FX options).  
+**SABR-Calibration** is a compact, yet powerful tool for calibrating the SABR model (Stochastic Alpha Beta Rho) volatility-smile model widely used in derivatives markets (caps/floors, swaptions, equity/FX options).  
 It lets users:  
 - load market volatility smile data (strikes vs implied volatilities)  
 - fit the SABR parameters (α, β, ρ, ν / vol-vol) under the popular Hagan (2002) / shifted-lognormal specification  
